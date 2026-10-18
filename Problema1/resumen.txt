@@ -1,0 +1,8 @@
+RESUMEN GENERAL DE CALIFICACIONES
+----------------------------------
+Total de estudiantes: 20
+Promedio general: 79.41
+Nota mayor: 98.0
+Nota menor: 57.5
+Aprobados: 14
+Reprobados: 6

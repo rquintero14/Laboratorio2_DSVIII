@@ -1,0 +1,122 @@
+[
+    {
+        "codigo": "P001",
+        "producto": "Teclado",
+        "cantidad": 25,
+        "precio": 18.5
+    },
+    {
+        "codigo": "P002",
+        "producto": "Mouse",
+        "cantidad": 40,
+        "precio": 12.75
+    },
+    {
+        "codigo": "P003",
+        "producto": "Monitor",
+        "cantidad": 12,
+        "precio": 150.0
+    },
+    {
+        "codigo": "P004",
+        "producto": "Laptop",
+        "cantidad": 10,
+        "precio": 650.0
+    },
+    {
+        "codigo": "P005",
+        "producto": "Impresora",
+        "cantidad": 8,
+        "precio": 120.0
+    },
+    {
+        "codigo": "P006",
+        "producto": "Audifonos",
+        "cantidad": 30,
+        "precio": 25.0
+    },
+    {
+        "codigo": "P007",
+        "producto": "Webcam",
+        "cantidad": 14,
+        "precio": 35.0
+    },
+    {
+        "codigo": "P008",
+        "producto": "USB 32GB",
+        "cantidad": 50,
+        "precio": 8.0
+    },
+    {
+        "codigo": "P009",
+        "producto": "Disco SSD",
+        "cantidad": 18,
+        "precio": 75.0
+    },
+    {
+        "codigo": "P010",
+        "producto": "Disco duro",
+        "cantidad": 20,
+        "precio": 60.0
+    },
+    {
+        "codigo": "P011",
+        "producto": "Memoria RAM",
+        "cantidad": 9,
+        "precio": 45.0
+    },
+    {
+        "codigo": "P012",
+        "producto": "Cable HDMI",
+        "cantidad": 60,
+        "precio": 6.5
+    },
+    {
+        "codigo": "P013",
+        "producto": "Router",
+        "cantidad": 11,
+        "precio": 55.0
+    },
+    {
+        "codigo": "P014",
+        "producto": "Switch",
+        "cantidad": 7,
+        "precio": 80.0
+    },
+    {
+        "codigo": "P015",
+        "producto": "Tablet",
+        "cantidad": 16,
+        "precio": 220.0
+    },
+    {
+        "codigo": "P016",
+        "producto": "Bocinas",
+        "cantidad": 22,
+        "precio": 32.0
+    },
+    {
+        "codigo": "P017",
+        "producto": "Microfono",
+        "cantidad": 13,
+        "precio": 40.0
+    },
+    {
+        "codigo": "P018",
+        "producto": "Cargador",
+        "cantidad": 35,
+        "precio": 15.0
+    },
+    {
+        "codigo": "P019",
+        "producto": "Mousepad",
+        "cantidad": 45,
+        "precio": 7.5
+    },
+    {
+        "codigo": "P020",
+        "producto": "Base laptop",
+        "cantidad": 6,
+        "precio": 28.0
+    }
+]

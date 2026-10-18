@@ -1,0 +1,21 @@
+codigo,producto,cantidad,precio
+P001,Teclado,25,18.5
+P002,Mouse,40,12.75
+P003,Monitor,12,150.0
+P004,Laptop,10,650.0
+P005,Impresora,8,120.0
+P006,Audifonos,30,25.0
+P007,Webcam,14,35.0
+P008,USB 32GB,50,8.0
+P009,Disco SSD,18,75.0
+P010,Disco duro,20,60.0
+P011,Memoria RAM,9,45.0
+P012,Cable HDMI,60,6.5
+P013,Router,11,55.0
+P014,Switch,7,80.0
+P015,Tablet,16,220.0
+P016,Bocinas,22,32.0
+P017,Microfono,13,40.0
+P018,Cargador,35,15.0
+P019,Mousepad,45,7.5
+P020,Base laptop,6,28.0

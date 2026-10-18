@@ -1,0 +1,182 @@
+[
+    {
+        "cedula": "8-123-456",
+        "nombre": "Marcos",
+        "parcial1": 85.0,
+        "parcial2": 90.0,
+        "proyecto": 95.0,
+        "nota_final": 90.5,
+        "condicion": "APROBADO"
+    },
+    {
+        "cedula": "8-234-567",
+        "nombre": "Ana",
+        "parcial1": 70.0,
+        "parcial2": 65.0,
+        "proyecto": 80.0,
+        "nota_final": 72.5,
+        "condicion": "APROBADO"
+    },
+    {
+        "cedula": "8-345-678",
+        "nombre": "Luis",
+        "parcial1": 95.0,
+        "parcial2": 88.0,
+        "proyecto": 92.0,
+        "nota_final": 91.7,
+        "condicion": "APROBADO"
+    },
+    {
+        "cedula": "8-456-789",
+        "nombre": "Sofia",
+        "parcial1": 60.0,
+        "parcial2": 72.0,
+        "proyecto": 75.0,
+        "nota_final": 69.6,
+        "condicion": "REPROBADO"
+    },
+    {
+        "cedula": "8-567-890",
+        "nombre": "Carlos",
+        "parcial1": 78.0,
+        "parcial2": 81.0,
+        "proyecto": 84.0,
+        "nota_final": 81.3,
+        "condicion": "APROBADO"
+    },
+    {
+        "cedula": "8-678-901",
+        "nombre": "Maria",
+        "parcial1": 90.0,
+        "parcial2": 94.0,
+        "proyecto": 89.0,
+        "nota_final": 90.8,
+        "condicion": "APROBADO"
+    },
+    {
+        "cedula": "8-789-012",
+        "nombre": "Pedro",
+        "parcial1": 55.0,
+        "parcial2": 68.0,
+        "proyecto": 70.0,
+        "nota_final": 64.9,
+        "condicion": "REPROBADO"
+    },
+    {
+        "cedula": "8-890-123",
+        "nombre": "Lucia",
+        "parcial1": 82.0,
+        "parcial2": 79.0,
+        "proyecto": 91.0,
+        "nota_final": 84.7,
+        "condicion": "APROBADO"
+    },
+    {
+        "cedula": "8-901-234",
+        "nombre": "Diego",
+        "parcial1": 71.0,
+        "parcial2": 73.0,
+        "proyecto": 69.0,
+        "nota_final": 70.8,
+        "condicion": "REPROBADO"
+    },
+    {
+        "cedula": "8-012-345",
+        "nombre": "Valeria",
+        "parcial1": 100.0,
+        "parcial2": 96.0,
+        "proyecto": 98.0,
+        "nota_final": 98.0,
+        "condicion": "APROBADO"
+    },
+    {
+        "cedula": "4-123-456",
+        "nombre": "Andres",
+        "parcial1": 64.0,
+        "parcial2": 70.0,
+        "proyecto": 73.0,
+        "nota_final": 69.4,
+        "condicion": "REPROBADO"
+    },
+    {
+        "cedula": "4-234-567",
+        "nombre": "Camila",
+        "parcial1": 88.0,
+        "parcial2": 85.0,
+        "proyecto": 90.0,
+        "nota_final": 87.9,
+        "condicion": "APROBADO"
+    },
+    {
+        "cedula": "4-345-678",
+        "nombre": "Javier",
+        "parcial1": 74.0,
+        "parcial2": 76.0,
+        "proyecto": 80.0,
+        "nota_final": 77.0,
+        "condicion": "APROBADO"
+    },
+    {
+        "cedula": "4-456-789",
+        "nombre": "Isabella",
+        "parcial1": 69.0,
+        "parcial2": 71.0,
+        "proyecto": 74.0,
+        "nota_final": 71.6,
+        "condicion": "APROBADO"
+    },
+    {
+        "cedula": "4-567-890",
+        "nombre": "Miguel",
+        "parcial1": 80.0,
+        "parcial2": 82.0,
+        "proyecto": 78.0,
+        "nota_final": 79.8,
+        "condicion": "APROBADO"
+    },
+    {
+        "cedula": "4-678-901",
+        "nombre": "Daniela",
+        "parcial1": 92.0,
+        "parcial2": 90.0,
+        "proyecto": 94.0,
+        "nota_final": 92.2,
+        "condicion": "APROBADO"
+    },
+    {
+        "cedula": "4-789-012",
+        "nombre": "Gabriel",
+        "parcial1": 45.0,
+        "parcial2": 60.0,
+        "proyecto": 65.0,
+        "nota_final": 57.5,
+        "condicion": "REPROBADO"
+    },
+    {
+        "cedula": "4-890-123",
+        "nombre": "Paula",
+        "parcial1": 77.0,
+        "parcial2": 83.0,
+        "proyecto": 86.0,
+        "nota_final": 82.4,
+        "condicion": "APROBADO"
+    },
+    {
+        "cedula": "4-901-234",
+        "nombre": "Ricardo",
+        "parcial1": 68.0,
+        "parcial2": 66.0,
+        "proyecto": 72.0,
+        "nota_final": 69.0,
+        "condicion": "REPROBADO"
+    },
+    {
+        "cedula": "4-012-345",
+        "nombre": "Elena",
+        "parcial1": 84.0,
+        "parcial2": 87.0,
+        "proyecto": 88.0,
+        "nota_final": 86.5,
+        "condicion": "APROBADO"
+    }
+]
