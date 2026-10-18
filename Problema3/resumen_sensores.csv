@@ -1,0 +1,6 @@
+sensor,ubicacion,cantidad_mediciones,temp_promedio,temp_maxima,temp_minima,humedad_promedio
+S03,Edificio C,4,32.65,34.0,31.0,82.5
+S05,Edificio B,3,28.900000000000002,29.5,28.2,67.66666666666667
+S04,Edificio A,3,27.5,28.0,27.0,62.0
+S01,Edificio A,5,29.9,32.5,28.5,78.6
+S02,Edificio B,5,31.840000000000003,33.5,30.2,80.6
