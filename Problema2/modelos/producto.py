@@ -1,4 +1,3 @@
-
 class Producto:
     def __init__(self, codigo, producto, cantidad, precio):
         self.codigo = codigo

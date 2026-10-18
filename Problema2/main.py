@@ -1,4 +1,3 @@
-
 from utilidades.controlInventario import ControlInventario
 
 try:

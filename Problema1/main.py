@@ -1,4 +1,3 @@
-
 from utilidades.controlEstudiante import ControlEstudiante
 
 archivoEntrada = "estudiantes.csv"
